@@ -21,12 +21,12 @@
 #   verify -- cert verification flag
 #   debug -- debug flag
 
-app_config = { 'app_id': 'G9nUpvbZQyiPrk3um2YAkQ',
-               'app_key': 'ybZu7fm_JKJTFwKEHfoZ7Q',
+app_config = { 'app_id': 'jV7hQjQ3h0WSM0Ifa7sqIw',
+               'app_key': 'UypUilZoyt2XN_Mpq6qJUQ',
                'host': 'localhost',
                'port': '8080',
                'scheme': 'HTTP',
-               'lms_host': 'lms.valence.desire2learn.com',
+               'lms_host': 'smcdsbtest.desire2learn.com',
                'lms_port': '443',
                'encrypt_requests': True,
                'verify' : False,
